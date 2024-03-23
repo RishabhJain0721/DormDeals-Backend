@@ -18,7 +18,11 @@
 
     - `ADMIN_PASSWORD` - The password of the admin user
 
-    - To obtain `ADMIN_EMAIL` AND `ADMIN_PASSWORD` go to your google accounts manage your google accounts settings
-    then security > 2 step verification (turn it on if off) > App passwords > create and copy that new generated password and paste it in `ADMIN_PASSWORD` environment variable
+To obtain `ADMIN_EMAIL` AND `ADMIN_PASSWORD` go to your google accounts manage your google accounts settings then security > 2 step verification (turn it on if off) > App passwords > create and copy that new generated password and paste it in `ADMIN_PASSWORD` environment variable
+
+    
+
+https://github.com/Gourav-21/DormDeals-Backend/assets/107918791/aef2b9a8-0a66-42bc-ba8f-0b0c2322975f
+
 
 5. Run the app: `npm run dev`
